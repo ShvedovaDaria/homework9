@@ -1,3 +1,5 @@
+package homework9;
+
 class Vehicle {
     double price;
     int speed;
